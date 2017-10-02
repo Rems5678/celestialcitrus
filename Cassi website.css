@@ -1,0 +1,161 @@
+/*
+
+Home page
+
+*/
+#nav {
+    box-shadow: 10px 2px 2px rgba(0 0 0 .1);
+	
+}
+#nav a {
+	font-size: 35px;
+}
+.expo h1 {
+    font-family: 'kaushan script', "cursive";
+    font-size: 100px;
+    float: left;
+   padding: 100px 50px 100px 100px;
+}
+.expo img {
+
+}
+.expo {
+    width: 100%;
+    background: radial-gradient(#7fccf3, #267bcb);
+}
+
+.image-container {
+    background: radial-gradient(#267bcb, #000);
+    padding: 50px;
+}
+.header-row {
+	width: 100%;
+	
+}
+.header-row h1{
+	width: 50%;
+	margin: 0 auto;
+	padding-left: 200px;
+	font-size: 200px;
+}
+.header-row img {
+	float: left;
+	padding-left: 200px;
+}
+/*
+
+My Story
+
+*/
+
+.my-story {
+    background: radial-gradient(#7fccf3, #267bcb);
+    height: 100vh;
+}
+.my-story div {
+	width: 100%;
+	padding: 300px;
+}
+.my-story img{
+  margin: 0 auto;
+	border-radius: 50%;
+	
+}
+.my-story h1,
+.my-story h2 {
+    text-align: center;
+}
+.my-story h2 {
+	font-size: 50px;
+}
+.my-story h1 {
+    font-size: 100px;
+    font-family: 'kaushan script', "cursive";
+}
+.my-story p{
+    font-size: 50px;
+		text-align: center;
+		padding: 0 100px 0 100px;
+}
+
+
+/*
+
+Art
+
+*/
+
+.art {
+   background: radial-gradient(#267bcb, #000);
+    color: white;
+    height: 110vh;
+}
+
+.art h1,
+.art h2{
+    text-align: center;
+}
+
+.art h1 {
+    font-size: 100px;
+    padding-top: 200px;
+    font-family: 'kaushan script', "cursive";
+}
+.art h2 {
+	font-size: 80px;
+}
+/*
+Commissions page
+
+*/
+
+.commissions-grid {
+    background: radial-gradient(#7fccf3, #267bcb);
+    height:80vh;
+}
+.commissions-grid div {
+	width: 100%;
+}
+.commissions-grid h1{
+    text-align: center;
+    padding-top: 200px;
+	   font-size: 100px;
+    font-family: 'kaushan script', "cursive";
+}
+.commissions-grid  p{
+    font-size: 50px;
+		text-align: center;
+		padding: 100px;
+}
+/*
+Contact
+
+*/
+.get-in-contact {
+    background: radial-gradient(#267bcb, #000);
+    color: white;
+}
+.get-in-contact h1 {
+		font-size: 100px;
+    text-align: center;
+    font-family: 'kaushan script', "cursive";
+}
+
+.get-in-contact .email{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+.get-in-contact  label {
+	font-size: 50px;
+}
+#label-first-name,
+#label-last-name,
+#label-email,
+#label-email-address {
+    color: white;
+}
+
+/*
+Behavior styling
+*/
