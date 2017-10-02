@@ -8,7 +8,7 @@ Home page
 	
 }
 #nav a {
-	font-size: 35px;
+	font-size: 25px;
 }
 .expo h1 {
     font-family: 'kaushan script', "cursive";
@@ -54,7 +54,7 @@ My Story
 }
 .my-story div {
 	width: 100%;
-	padding: 300px;
+	padding-top: 100px;
 }
 .my-story img{
   margin: 0 auto;
@@ -66,16 +66,16 @@ My Story
     text-align: center;
 }
 .my-story h2 {
-	font-size: 50px;
+	font-size: 30px;
 }
 .my-story h1 {
-    font-size: 100px;
+    font-size: 50px;
     font-family: 'kaushan script', "cursive";
 }
 .my-story p{
-    font-size: 50px;
+    font-size: 25px;
 		text-align: center;
-		padding: 0 100px 0 100px;
+		padding: 0 50px 0 50px;
 }
 
 
@@ -97,12 +97,12 @@ Art
 }
 
 .art h1 {
-    font-size: 100px;
-    padding-top: 200px;
+    font-size: 50px;
+    padding-top: 175px;
     font-family: 'kaushan script', "cursive";
 }
 .art h2 {
-	font-size: 80px;
+	font-size: 20px;
 }
 /*
 Commissions page
@@ -118,12 +118,12 @@ Commissions page
 }
 .commissions-grid h1{
     text-align: center;
-    padding-top: 200px;
-	   font-size: 100px;
+    padding-top: 100px;
+	   font-size: 50px;
     font-family: 'kaushan script', "cursive";
 }
 .commissions-grid  p{
-    font-size: 50px;
+    font-size: 25px;
 		text-align: center;
 		padding: 100px;
 }
@@ -136,18 +136,18 @@ Contact
     color: white;
 }
 .get-in-contact h1 {
-		font-size: 100px;
+		font-size: 50px;
     text-align: center;
     font-family: 'kaushan script', "cursive";
 }
 
 .get-in-contact .email{
-    font-size: 50px;
+    font-size: 25px;
     font-weight: 700;
     text-align: center;
 }
 .get-in-contact  label {
-	font-size: 50px;
+	font-size: 25px;
 }
 #label-first-name,
 #label-last-name,
